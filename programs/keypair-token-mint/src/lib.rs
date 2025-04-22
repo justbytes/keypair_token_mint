@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_spl::associated_token::AssociatedToken;
 use anchor_spl::token_interface::{Mint, MintTo, TokenAccount, TokenInterface};
 
-declare_id!("8WiTm5vJ7o2HxirGcRSwfvnddmHXAmoCpftXCZuRiQD1");
+declare_id!("9jhX4nbiE1GWm5URzeD6bSajjMRFrCBg9sbgVHrCSajp");
 
 #[program]
 pub mod keypair_token_mint {
